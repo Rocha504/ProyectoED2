@@ -1,0 +1,1 @@
+Campo2;char;true;8;c;char;true;7;Nel;char;false;12;si;char;false;10;nuevo;char;false;10;Numero;int;false;12;

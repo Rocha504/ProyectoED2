@@ -1,0 +1,1 @@
+nombre= asdf, tipo=char, longitud=7, llave=false

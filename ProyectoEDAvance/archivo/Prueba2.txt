@@ -1,0 +1,1 @@
+nombre=prueba, tipo=char, longitud=8, llave=false
